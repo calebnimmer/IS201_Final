@@ -1,0 +1,16 @@
+.home_bg_2{
+    background-image: url(../assets/img/nba_logo.png);
+    background-size:cover;
+}
+
+.anchor{
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.body_2{
+    color: black;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
