@@ -19,6 +19,7 @@
     bottom: 39px;
     z-index: 1;
     border-right: solid 1px #555555;
+    padding-right: 10px
 }
 
 .mainbody{
